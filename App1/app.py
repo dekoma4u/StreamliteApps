@@ -3,7 +3,7 @@ import yfinance as yf
 import pandas as pd
 
 st.write("""
-# Simple Stock Price ***ALPHABET (GOOGL)***.
+# Simple Stock Price App ***(GOOGL)***.
 
 Shown are the stock ***closing price*** and ***volume*** of Google!
 

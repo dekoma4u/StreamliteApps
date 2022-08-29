@@ -3,9 +3,9 @@ import yfinance as yf
 import pandas as pd
 
 st.write("""
-# Simple Stock Price
+# Simple Stock Price *** ALPHABET (GOOGL) ***.
 
-Shown are the stock closing price and volume of Google!
+Shown are the stock *** closing price *** and *** volume *** of Google!
 
 """)
 # Definition of the ticker symbol
